@@ -6,7 +6,9 @@ Prosty program na zaliczenie przedstawiający działanie potencjału Lennard'a J
 Autorzy:
 Michal Golonka,
 Michal Franczyk
+
 data:
 2012
+
 zalecana minimalna rozdzielczosc ekranu:
 1366x768
