@@ -7,8 +7,11 @@ Autorzy:
 Michal Golonka,
 Michal Franczyk
 
-data:
+Data wykonania:
 2012
 
-zalecana minimalna rozdzielczosc ekranu:
+Zalecana minimalna rozdzielczosc ekranu:
 1366x768
+
+Przydatny link:
+http://www.personal.psu.edu/auk183/MolDynamics/Molecular%20Dynamics%20Simulations.html
